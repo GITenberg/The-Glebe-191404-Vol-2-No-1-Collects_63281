@@ -1,0 +1,52 @@
+_repo: The-Glebe-191404-Vol-2-No-1-Collects_63281
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Traubel, Horace
+    alias: Traubel, Horace L. (Horace Logo)
+    birthdate: 1858
+    deathdate: 1919
+    gutenberg_agent_id: '52359'
+    url: http://www.gutenberg.org/2009/agents/52359
+    wikipedia: https://en.wikipedia.org/wiki/Horace_Traubel
+  editors:
+  - agent_name: Kreymborg, Alfred
+    birthdate: 1883
+    deathdate: 1966
+    gutenberg_agent_id: '35239'
+    url: http://www.gutenberg.org/2009/agents/35239
+    wikipedia: https://en.wikipedia.org/wiki/Alfred_Kreymborg
+  - agent_name: Man Ray
+    aliases:
+    - Rudnitsky, Emmanuel
+    - Ray, Man
+    - Rudnitzky, Emmanuel
+    - Radnitzky, Emmanuel
+    - Radenski, Emmanuel
+    - Rudnizky, Emmanuel
+    birthdate: 1890
+    deathdate: 1976
+    gutenberg_agent_id: '51051'
+    url: http://www.gutenberg.org/2009/agents/51051
+    wikipedia: https://en.wikipedia.org/wiki/Man_Ray
+description: ''
+gutenberg_issued: '2020-09-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63281'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American essays -- 20th century'
+- !lcsh 'Literature, Modern -- 20th century -- Periodicals'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: I'm so glad I was born -- Pankhurst -- What is the color of your
+  skin? -- You writers who are trying to write -- All the engineers perished -- What
+  are you doing for the cause? -- I claim everything for the people -- To leave no
+  door unopened -- Have you sold your soul for dirt? -- When I look into the faces
+  -- Loving is the only life -- Keep your face to the sun.
+title: 'The Glebe 1914/04 (Vol. 2, No. 1): Collects'
+url: http://www.gutenberg.org/ebooks/63281
