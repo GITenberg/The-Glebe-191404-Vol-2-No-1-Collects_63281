@@ -1,5 +1,8 @@
 _repo: The-Glebe-191404-Vol-2-No-1-Collects_63281
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 63281-h/images/cover.jpg
 creator:
   author:
     agent_name: Traubel, Horace
@@ -30,6 +33,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/51051
     wikipedia: https://en.wikipedia.org/wiki/Man_Ray
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63281#The-Glebe-191404-Vol-2-No-1-Collects
 gutenberg_issued: '2020-09-24'
 gutenberg_type: Text
 identifiers:
